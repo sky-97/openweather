@@ -17,8 +17,8 @@ how to get api keys?
 
 **how to run this program**
 *step 1 : run controller.py file 
-❮img src="screenshot/image/output1.png"width="100" ❯
-![](screenshot/image/output1.png)
+<img src="screenshot/image/output1.png" alt="alt text" width="100" height="50">
+
 
 
 
