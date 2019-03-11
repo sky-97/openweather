@@ -1,4 +1,4 @@
-#crrent_open_weather#
+#current_open_weather#
 
 **overview**
 
