@@ -9,10 +9,10 @@ MVC Using the OpenWeatherMap API Access current weather data for any location on
     * python 3, request library.
 
 * api
-How to get api keys?
-  * step 1:- go to https://openweathermap.org 
-  * step 2:- Create New Account click on sign up https://home.openweathermap.org/users/sign_up
-  * step 3:-you get your unique api key example -b6907d289e10d714a6e88b30761fae22
+ * How to get api keys?
+   * step 1:- go to https://openweathermap.org 
+   * step 2:- Create New Account click on sign up https://home.openweathermap.org/users/sign_up
+   * step 3:-you get your unique api key example -b6907d289e10d714a6e88b30761fae22
 
 
 * How to run this program 
