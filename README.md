@@ -16,9 +16,9 @@ how to get api keys?
 
 
 * how to run this program 
-* step 1 : run controller.py file 
-  * click   1 TO ENTER CITY NAME 
-  * click   2 TO QUIT
+   * step 1 : run controller.py file 
+      * click   1 TO ENTER CITY NAME 
+      * click   2 TO QUIT
 
 
 * <img src="screenshot/image/output1.png" alt="alt text" width="600">
