@@ -17,7 +17,7 @@ how to get api keys?
 
 * how to run this program 
 * step 1 : run controller.py file 
-  * click   1 OPEN
+  * click   1 TO ENTER CITY NAME 
   * click   2 TO QUIT
 
 
