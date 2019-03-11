@@ -2,7 +2,7 @@
 
 **Overview**
 
-MVC Using the OpenWeatherMap API Access current weather data for any location on Earth including over 200,000 cities! Current weather is frequently updated based on global models and data from more than 40,000 weather stations,using json api.
+Using the OpenWeatherMap API with help of MVC architecture ,we are accessing  current weather data for  over 200,000 cities! Current weather is frequently updated based on global models and data from more than 40,000 weather stations,using json api.
 
 ## Requirements
 * python requirements
