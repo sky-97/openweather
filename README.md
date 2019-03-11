@@ -10,9 +10,9 @@ python 3, request library.
 
 *api*
 how to get api keys?
-step 1:- go to https://openweathermap.org 
-step 2:- Create New Account click on sign up https://home.openweathermap.org/users/sign_up
-step 3:-you get your unique api key
+* step 1:- go to https://openweathermap.org 
+* step 2:- Create New Account click on sign up https://home.openweathermap.org/users/sign_up
+* step 3:-you get your unique api key
 
 
 **how to run this program**
