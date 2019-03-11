@@ -6,7 +6,7 @@ MVC Using the OpenWeatherMap API Access current weather data for any location on
 
 ## Requirements
 * python requirements
-python 3, request library.
+    * python 3, request library.
 
 * api
 how to get api keys?
